@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
+This is a second project from [Meetup workshop](https://www.meetup.com/Progressive-Web-Apps-with-modern-frameworks/events/250651881/).
+
+Based on [template](https://templated.co/redmarket).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
